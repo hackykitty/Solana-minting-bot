@@ -2,7 +2,7 @@
 Automation bot on selenium for mint NFT from Magiceden
 ---
 
-This bot will help you mint all the Magic Eden NFT's projects, This bot of does not guarantee a successful mint but increases chances as well as gives you the possibility to mint bypass the minting limit !
+This bot will help you mint all the Magic Eden NFT's projects, This bot of does not guarantee a successful mint but increases chances as well as gives you the possibility to mint bypass the minting limit!
 
 Easy setup which uses ChromeDriver to open up a new chrome instance and mint the nft you are looking for quicker than a human. **This bot does not guarantee you will get your NFT**, this bot simply goes faster than humans to mint and automates everything since you do not have to click yourself.
 
